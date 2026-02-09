@@ -27,8 +27,8 @@ Using predictive **Churn Risk Scoring** and behavioral segmentation, the analysi
 - **Shift from volume to reciprocity** — nudge passive users toward light creation
 
 ## Project Files
--https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Instagram_Retention_Analysis.ipynb `Instagram_Retention_Analysis.ipynb` – Python preprocessing & metric engineering
--https://github.com/nivethonj-glitch/data-analytics-portfolio/blob/main/Instagram%20Retention%20Analysis%20pdf3.pdf {Instagram Retention Analysis.pdf) – Full report (30 pages)
+-https://github.com/nivethonj-glitch/Instagram-Improvement-In-Quality-Efficiency-Retention/blob/main/Instagram_Retention_Analysis.ipynb `Instagram_Retention_Analysis.ipynb` – Python preprocessing & metric engineering
+-https://github.com/nivethonj-glitch/Instagram-Improvement-In-Quality-Efficiency-Retention/blob/main/Instagram%20Retention%20Analysis%20pdf3.pdf {Instagram Retention Analysis.pdf) – Full report (30 pages)
 - Tableau workbook (linked above)
 
 ## Tech Highlights
